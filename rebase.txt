@@ -2,6 +2,6 @@
 <title>
 jenny,bob
 </title>
-<body> this is alexa,bob,alexander and jennys work 
+<body> this is alexa,bob,alexander work 
 </body>
 </html>
